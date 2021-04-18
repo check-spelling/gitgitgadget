@@ -7,7 +7,4 @@ ignore$
 \.lock$
 \.min\.
 \.mod$
-^images/gitgitgadget\.png$
-^script/lookup-commit\.sh$
 ^\.github/
-^\.vscode/settings\.json$
